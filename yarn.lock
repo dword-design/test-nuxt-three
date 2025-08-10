@@ -1462,9 +1462,7 @@
     param-case "^3.0.3"
 
 "@dword-design/base-config-app@^2.0.0":
-  version "2.0.16"
-  resolved "https://registry.yarnpkg.com/@dword-design/base-config-app/-/base-config-app-2.0.16.tgz#508311832e1867eadf8eb4ccf90a4e3c25878ed6"
-  integrity sha512-rP8X0H1oVkkRD1h4Sff9m+8uNG4IW7JoKitiIcuGhBzuPyPycQcuU6WNHcdgTwMBOrqDhszLKYk6c2li4UYd5A==
+  version "2.0.18"
   dependencies:
     "@dword-design/base-config-nuxt" "^3.0.0"
     "@dword-design/functions" "^4.0.0"
